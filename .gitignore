@@ -1,0 +1,7 @@
+data/*.csv
+data/*.xlsx
+data/*.parquet
+.env
+__pycache__/
+*.pyc
+.DS_Store
