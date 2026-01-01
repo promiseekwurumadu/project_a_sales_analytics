@@ -1,0 +1,6 @@
+SELECT
+  DATE_TRUNC('month', "InvoiceDate") AS month,
+  ROUND(SUM("Revenue")::numeric, 2) AS revenue
+FROM online_retail
+GROUP BY 1
+ORDER BY 1;
