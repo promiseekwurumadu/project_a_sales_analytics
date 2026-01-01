@@ -18,4 +18,9 @@ This project analyses sales transaction data to answer key business questions re
 - SQL (business metrics)
 - Power BI (visualisation)
 
-## Project Structure
+
+## Key Findings
+
+- Monthly revenue shows seasonality, with a peak in March 2011 and a dip in February.
+- Approximately 65.6% of customers made repeat purchases, indicating strong customer retention.
+- Revenue is therefore likely driven primarily by returning customers rather than one-off buyers.
